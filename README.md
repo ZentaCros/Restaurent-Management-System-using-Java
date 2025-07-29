@@ -1,5 +1,11 @@
 # Restaurent-Management-System-using-Java
 
+#Some Screenshots
+
+![Before/After](images/.mainmenu.png)
+![Before/After](images/.foodmain.png)
+![Before/After](images/.order placement.png)
+
 ## Data Structures Used
 | Component       | DSA Used      | Big-O       |
 |----------------|---------------|-------------|
