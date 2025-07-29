@@ -3,7 +3,7 @@
 #Some Screenshots
 
 ![Before/After](images/mainmenu.png)
-![Before/After](images/foodmain.png)
+![Before/After](images/foodmenu.png)
 ![Before/After](images/orderplacement.png)
 
 ## Data Structures Used
