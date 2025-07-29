@@ -2,9 +2,9 @@
 
 #Some Screenshots
 
-![Before/After](images/.mainmenu.png)
-![Before/After](images/.foodmain.png)
-![Before/After](images/.order placement.png)
+![Before/After](images/mainmenu.png)
+![Before/After](images/foodmain.png)
+![Before/After](images/orderplacement.png)
 
 ## Data Structures Used
 | Component       | DSA Used      | Big-O       |
